@@ -98,6 +98,9 @@ extern const uint8_t KeyboardLayout_sv_SE[128] PROGMEM =
 	0x1b|SHIFT,    // X
 	0x1c|SHIFT,    // Y
 	0x1d|SHIFT,    // Z
+	0x2f|SHIFT,    // Å
+	0x34|SHIFT,    // Ä
+	0x33|SHIFT,    // Ö
 	0x25|ALT_GR,   // [
 	0x2d|ALT_GR,   // bslash
 	0x26|ALT_GR,   // ]
@@ -130,6 +133,9 @@ extern const uint8_t KeyboardLayout_sv_SE[128] PROGMEM =
 	0x1b,          // x
 	0x1c,          // y
 	0x1d,          // z
+	0x2f,          // å
+	0x34,          // ä
+	0x33,          // ö
 	0x24|ALT_GR,   // {
 	0x32|ALT_GR,   // |
 	0x27|ALT_GR,   // }
